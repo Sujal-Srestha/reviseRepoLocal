@@ -1,7 +1,5 @@
 function hello(){
-<<<<<<< HEAD
     document.write("bie");
-=======
     document.write("bie");
->>>>>>> test2
+    document.write("bie1");
 }
